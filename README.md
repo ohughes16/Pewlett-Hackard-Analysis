@@ -6,7 +6,7 @@ Pewlett Hackard is planning for the future and asked my team to create a SQL dat
 
 ## Results: 
 
-- Pewlett Hackard has 90,308 employees retiring in the near future.
+- Pewlett Hackard has 90,398 employees retiring in the near future.
   - 29,414 Senior Engineers
   - 28,255 Senior Staff
   - 14,222 Engineers
@@ -14,8 +14,8 @@ Pewlett Hackard is planning for the future and asked my team to create a SQL dat
   - 4,502 Technique Leaders
   - 1,761 Assistant Engineers
   - 2 Managers
+- Pewlett Hackard has 1,940 employees eligible for the mentorship program
 - 
--
 -
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
