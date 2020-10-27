@@ -1,6 +1,6 @@
 # Pewlett Hackard Analysis
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis:
 
 Pewlett Hackard is planning for the future and asked my team to create a SQL database of their employees. The company had a series of questions that it needed answered about upcoming retiring employees so they could plan for the way ahead. Pewlet Hackard wanted to know how many employees they should expect to retire in the near future, what department those employees fell in, and what the title was of the employee that is retiring. Pewlett Hackard also wanted to generate a list of individuals that were eligible for the mentorship program.
 
