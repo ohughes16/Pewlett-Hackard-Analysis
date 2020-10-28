@@ -14,7 +14,7 @@ Pewlett Hackard is planning for the future and asked my team to create a SQL dat
   - 4,502 Technique Leaders
   - 1,761 Assistant Engineers
   - 2 Managers
-- Pewlett Hackard has 1,940 employees eligible for the mentorship program
+- Pewlett Hackard has 1,549 employees eligible for the mentorship program
 - 
 -
 
