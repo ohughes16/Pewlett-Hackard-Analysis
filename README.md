@@ -14,10 +14,16 @@ Pewlett Hackard is planning for the future and asked my team to create a SQL dat
   - 4,502 Technique Leaders
   - 1,761 Assistant Engineers
   - 2 Managers
-- Pewlett Hackard has 1,549 employees eligible for the mentorship program
-- 
--
+- Pewlett Hackard has 1,549 employees eligible for the mentorship program.
+- The collective salaries of these retiring individuals is $7,086,793,392.00
+- There are currently 4 departments without managers (Marketing, Finance, Development, Quality Management) and we are about to lose 2 more managers.
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+*How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+Pewlett Hackard has 90,398 roles opening up in the near future.
+
+*Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+There are 1,549 employees eligibile for the mentorship program.
