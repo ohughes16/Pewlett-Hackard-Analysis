@@ -20,10 +20,10 @@ Pewlett Hackard is planning for the future and asked my team to create a SQL dat
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-*How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+*How many roles will need to be filled as the "silver tsunami" begins to make an impact?*
 
-Pewlett Hackard has 90,398 roles opening up in the near future.
+Pewlett Hackard has 90,398 roles opening up in the near future.They will need to start hiring and training new employees immediately. 
 
-*Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+*Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?*
 
-There are 1,549 employees eligibile for the mentorship program.
+There are 1,549 employees eligibile for the mentorship program, not nearly enough to fill the roles of the 90,398 employees that are soon to be retirin. 
