@@ -18,7 +18,7 @@ Pewlett Hackard is planning for the future and asked my team to create a SQL dat
 - The collective salaries of these retiring individuals is $7,086,793,392.00
 - There are currently 4 departments without managers (Marketing, Finance, Development, Quality Management) and we are about to lose 2 more managers.
 
-## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+## Summary: 
 
 *How many roles will need to be filled as the "silver tsunami" begins to make an impact?*
 
