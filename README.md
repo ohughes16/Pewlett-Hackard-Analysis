@@ -22,8 +22,8 @@ Pewlett Hackard is planning for the future and asked my team to create a SQL dat
 
 *How many roles will need to be filled as the "silver tsunami" begins to make an impact?*
 
-Pewlett Hackard has 90,398 roles opening up in the near future.They will need to start hiring and training new employees immediately. 
+Pewlett Hackard has 90,398 roles opening up in the near future.They will need to start hiring and training new employees immediately. The retiring employees salaries come in at a total of 7 million dollars. The company should have sufficient funds to bring on entry to mid level employees to start traning to fill the roles of the 90,000+ employees that will be retiring.
 
 *Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?*
 
-There are 1,549 employees eligibile for the mentorship program, not nearly enough to fill the roles of the 90,398 employees that are soon to be retirin. 
+There are 1,549 employees eligibile for the mentorship program, not nearly enough to fill the roles of the 90,398 employees that are soon to be retiring. To prevent this silver tsunami from happening, PH needs to start hiring new employees and should avoid doing a massive hiring window in the future so this doesn't happen again. From additional queries, it looks as though the yearly hire rate has decreased from a yearly hire rate of 30,000 - 35,000 new employees to only 1,500 new employees hired in 2000.  There have been no new hires since the year 2000.  The silver tsunami will continue if Pewlett Hackard doesn't keep up with hiring new employees.
